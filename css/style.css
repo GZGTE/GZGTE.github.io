@@ -2,6 +2,13 @@
   display: none;
 }
 
+#greeting {
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
 h2 {
   font-weight: bold;
   font-size: 70px;
